@@ -1,4 +1,5 @@
 import * as firebase from 'firebase/app';
+import * as firebaseui from 'firebaseui';
 import 'firebase/database';
 
 export default function setup() {
